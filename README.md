@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdihasanaghaei" alt="mahdihasanaghaei" /></a> </p>
 
-- 🌱 I’m currently learning **Front-End Developement**
+- 🌱 I’m currently learning **Front-End Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahdihasanaghaei](https://github.com/mahdihasanaghaei)
 
-- 💬 Ask me about **HTML5, CSS3, BootStrap, Tailwind, Javascript, REACT**
+- 💬 Ask me about **HTML5, CSS3, BootStrap, Tailwind, Javascript, REACT, NEXT**
 
 - 📫 How to reach me **mahdi.ha99@gmail.com**
 
