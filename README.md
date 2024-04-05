@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahdihasanaghaei](https://github.com/mahdihasanaghaei)
 
-- 💬 Ask me about **HTML5, CSS3, BootStrap, Tailwind, Javascript, REACT, NEXT**
+- 💬 Ask me about **HTML5, CSS3, BootStrap5, TailwindCSS, Javascript, REACTJS, NEXTJS**
 
 - 📫 How to reach me **mahdi.ha99@gmail.com**
 
